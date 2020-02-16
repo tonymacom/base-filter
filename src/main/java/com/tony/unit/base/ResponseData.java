@@ -12,4 +12,6 @@ public class ResponseData {
 
     public Object data;
 
+    public static ResponseData SUCCESS = new ResponseData();
+
 }
